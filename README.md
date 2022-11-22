@@ -80,9 +80,6 @@ classDiagram
 
 <div align="center">
  <picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobelspehar&layout=compact&theme=github_dark&hide_border=true" width="500"/>
- </picture>
- <picture>
   <img src="https://streak-stats.demolab.com?user=lobelspehar&theme=onedark_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D" width="500"/>
  </picture>
 </div>
